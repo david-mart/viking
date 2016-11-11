@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<!-- Meta Data -->
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Home BSA Page</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<link rel="shortcut icon" href="/site/templates/img/favicon.ico" type="image/x-icon">
+		
+		<!-- Stlylesheet -->
+		<link rel="stylesheet" href="/site/assets/aiom/css_ea37c222b20a5d3acfea1eb7c2700144.css">
+		
+	</head>
+	<body> 
+		
+		<!-- Start Preloader -->
+		<div id="preloader">
+			<div class="loader">  
+				<img src="/site/templates/img/assets/preloader-logo.png" alt=""> 
+			</div>
+		</div>
+		<!-- End Preloader -->
+		
+		<!-- Start Header -->
+		<header>
+			<nav class="navbar navbar-default navbar-alt" role="navigation">
+				<div class="container">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" rel="home" href="/">
+							<img src="/site/templates/img/assets/logo-white.png" alt="" class="logo-big">
+							<img src="/site/templates/img/assets/logo-dark.png" alt="" class="logo-small">
+						</a>
+					</div>
+
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse" id="main-nav">
+						<ul class="nav navbar-nav  navbar-right">
+																													 
+								<li><a href="/" class="current">Home</a></li>
+															 
+								<li><a href="/about-us/">About</a></li>
+															 
+								<li><a href="/specials/">Specials</a></li>
+															 
+								<li><a href="/contact-us/">Contact</a></li>
+															 
+								<li><a href="/testimonials/">Testimonials</a></li>
+															 
+								<li><a href="/credit-application/">Credit Application</a></li>
+												  </ul>
+					</div><!-- /.navbar-collapse -->
+				</div><!-- /.container -->
+			</nav>
+		</header>
+		<!-- End Header -->
+<!-- Start Home Revolution Slider Parallax Section -->
+<section id="home-revolution-slider">
+	<div class="hero">
+		<div class="tp-banner-container">
+			<div class="tp-banner">
+				<ul>
+											<li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="/site/assets/files/1/forest-cars_00322300.180x110.jpg" data-delay="10000"  data-saveperformance="on" data-title="">
+							<img src="/site/assets/files/1/forest-cars_00322300.1920x1080.jpg" alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+						</li>
+											<li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="/site/assets/files/1/forest-clouds-white-benz-mercedes.180x110.jpg" data-delay="10000"  data-saveperformance="on" data-title="">
+							<img src="/site/assets/files/1/forest-clouds-white-benz-mercedes.1920x1080.jpg" alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+						</li>
+											<li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="/site/assets/files/1/mercedes-benz-amg-gt-s-2016-7405.180x110.jpg" data-delay="10000"  data-saveperformance="on" data-title="">
+							<img src="/site/assets/files/1/mercedes-benz-amg-gt-s-2016-7405.1920x1080.jpg" alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+						</li>
+									</ul>
+				<div class="tp-bannertimer"></div>	
+			</div>
+
+			<div class="home-bottom">
+				<div class="container text-center">
+					<div class="move bounce">
+						<a href="#s-paragraphs" class="ion-ios-arrow-down btn-scroll"></a>
+					</div>  
+				</div> 
+			</div>
+
+		</div>	
+	</div>
+</section>
+<!-- End Home Revolution Slider Parallax Section -->
+
+<div class="site-wrapper content">
+	
+	<section id="s-paragraphs">
+
+		<div class="call-action">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="action-5-info">
+							<h3 class="uppercase">Find out about the latest new car deals & special offers</h3>
+						</div>
+						<div class="action-5-btn">
+							<a href="/specials/" class="btn btn-primary btn-responsive">View Special Offers</a>
+						</div>
+					</div>
+				</div>	
+			</div>
+		</div>
+
+		<div class="container"> 
+			
+			<div class="row shortcode-heading about-page">
+			
+				<div class="col-md-8 wow fadeIn">
+					<h3>WELCOME TO BLACKSTALLIONAUTO.COM</h3>
+
+<p>Black stallion auto is an Auto brokerage which locates and arranges new or used car deals on your behalf. We are your very own personnel shopper.</p>
+
+<p>It comes down to one thing, service. As an independent company we have the freedom to stand alone. We don’t just offer you the best automobile but also the best price on a variety of services. Service price and selection are at the core of First Class. Every detail of the clients purchasing process is laid out with a single goal in mind: to enhance the joy of leasing a new automobile.</p>
+
+<p>Our sales team and specialists know that anything that does not provide ease, better choices &amp; the superior service, simply does not belong at First Class Leasing. We know because we are not selling a car, but building a relationship.</p>				</div>	 
+				
+				<div class="col-md-4 wow fadeIn check-list-1">
+					<h3>WHY BLACK STALLION</h3>
+
+<ul><li>Flexible leasing &amp; financing options</li>
+	<li>Hassle-free purchase</li>
+	<li>Zero or very little down</li>
+	<li>Vehicle delivery service</li>
+	<li>Latest makes and models</li>
+	<li>All options, colors and packages</li>
+	<li>Short &amp; long-term leases</li>
+	<li>Lowest monthly payments</li>
+	<li>Best prices in town</li>
+</ul>				</div>
+				
+			</div>
+		</div>
+	</section>  
+
+	<!-- Start Team Section -->
+	<section id="team" class="bg-grey">
+		<div class="container"> 
+			
+			<div class="col-md-12 text-center wow fadeInUp">
+				<h3 class="section-title">RECENT VEHICLES</h3> 
+				<p class="subheading">Browse through the vast selection of vehicles that have recently been added to our inventory.</p>
+			</div>
+			
+			<div class="row" id="recent-cars">
+
+									<div class="item team-member">
+						<div class="effect effects wow fadeInUp">
+							<div class="img">
+								<img src="/site/assets/files/1021/2014-audi-a4-beauty-exterior-01.325x225.jpg" class="img-responsive" alt="" />
+								<div class="overlay">
+									<ul class="expand">
+										<li class="social-icon"><a href="/specials/2015-audi-a4/"><i class="icon ion-ios-search-strong"></i></a></li>
+									</ul>
+									<a class="close-overlay hidden">x</a>
+								</div>
+							</div>
+						</div>
+						<div class="member-info wow fadeInUp">
+							<h4>2015 Audi A4</h4>
+															<h5 class="highlight">Call for Price</h5>
+													</div>
+					</div>
+									<div class="item team-member">
+						<div class="effect effects wow fadeInUp">
+							<div class="img">
+								<img src="/site/assets/files/1024/2015-toyota-camry-first-drive-review-car-and-driver-photo-628681-s-original-762x456.325x225.jpg" class="img-responsive" alt="" />
+								<div class="overlay">
+									<ul class="expand">
+										<li class="social-icon"><a href="/specials/2015-toyota-camry-se/"><i class="icon ion-ios-search-strong"></i></a></li>
+									</ul>
+									<a class="close-overlay hidden">x</a>
+								</div>
+							</div>
+						</div>
+						<div class="member-info wow fadeInUp">
+							<h4>2015 Toyota Camry SE</h4>
+															<h5 class="highlight">$ 123.12</h5>
+													</div>
+					</div>
+									<div class="item team-member">
+						<div class="effect effects wow fadeInUp">
+							<div class="img">
+								<img src="/site/assets/files/1022/2015-audi-a3-tdi-sedan-placement-626x382.325x225.jpg" class="img-responsive" alt="" />
+								<div class="overlay">
+									<ul class="expand">
+										<li class="social-icon"><a href="/specials/2015-audi-a3/"><i class="icon ion-ios-search-strong"></i></a></li>
+									</ul>
+									<a class="close-overlay hidden">x</a>
+								</div>
+							</div>
+						</div>
+						<div class="member-info wow fadeInUp">
+							<h4>2015 Audi A3</h4>
+															<h5 class="highlight">Call for Price</h5>
+													</div>
+					</div>
+									<div class="item team-member">
+						<div class="effect effects wow fadeInUp">
+							<div class="img">
+								<img src="/site/assets/files/1023/corolla1-762x456.325x225.jpg" class="img-responsive" alt="" />
+								<div class="overlay">
+									<ul class="expand">
+										<li class="social-icon"><a href="/specials/2015-toyota-corolla-s/"><i class="icon ion-ios-search-strong"></i></a></li>
+									</ul>
+									<a class="close-overlay hidden">x</a>
+								</div>
+							</div>
+						</div>
+						<div class="member-info wow fadeInUp">
+							<h4>2015 Toyota Corolla S+</h4>
+															<h5 class="highlight">Call for Price</h5>
+													</div>
+					</div>
+									<div class="item team-member">
+						<div class="effect effects wow fadeInUp">
+							<div class="img">
+								<img src="/site/assets/files/1035/2015-bmw-x6-rear-side-view-from-above-762x456.325x225.jpg" class="img-responsive" alt="" />
+								<div class="overlay">
+									<ul class="expand">
+										<li class="social-icon"><a href="/specials/bmw-x6/"><i class="icon ion-ios-search-strong"></i></a></li>
+									</ul>
+									<a class="close-overlay hidden">x</a>
+								</div>
+							</div>
+						</div>
+						<div class="member-info wow fadeInUp">
+							<h4>BMW X6</h4>
+															<h5 class="highlight">Call for Price</h5>
+													</div>
+					</div>
+				
+			</div>
+		</div>
+	</section>
+	<!-- End Team Section -->   
+	
+	<!-- Start Testimonials Section -->   
+	<section id="testimonials" class="parallax-section-7">
+		<div class="container">
+			<div class="row">
+				
+				<div class="col-md-12 text-center">
+					<h3 class="section-title white wow fadeInUp">What clients say.</h3>
+					<p class="subheading grey wow fadeInUp">Hear what over <span class="highlight">4000 satisfied</span> customers say about us!</p>
+				</div>
+				
+				<div class="col-md-12 text-center wow fadeInUp">
+					<div id="owl-testimonials" class="owl-carousel">
+
+													<div>
+								<div class="testimonial">
+									<i class="icon-left ion-quote ion-2x highlight"></i>
+										<span> 
+											It comes down to one thing, service. As an independent company we have the freedom to stand alone. We don’t just offer you the best automobile but also the best price on a variety of services. Service price aIt comes down to one thing, service. As an independent company we have the freedom to stand alone. We don’t just offer you the best automobile but also the best price on a variety of services. Service price aIt comes down to one thing, service. As an independent company we have the freedom to stand alone. We don’t just offer you the best automobile but also the best price on a variety of services. Service price a										</span>
+									<i class="icon-right ion-quote ion-2x highlight"></i>
+								</div>
+								<div class="testimonial-name">
+									<img src="/site/assets/files/1037/deadpool.80x80.jpg" alt="client">
+									<h4 class="white">Deadpool</h4>
+									<p>10/30/2016</p>
+																			<a href="http://deadpool.com">Read More</a>
+																	</div>
+							</div>
+													<div>
+								<div class="testimonial">
+									<i class="icon-left ion-quote ion-2x highlight"></i>
+										<span> 
+											It comes down to one thing, service. As an independent company we have the freedom to stand alone. We don’t just offer you the best automobile but also the best price on a variety of services. Service price aIt comes down to one thing, service. As an independent company we have the freedom to stand alone. We don’t just offe										</span>
+									<i class="icon-right ion-quote ion-2x highlight"></i>
+								</div>
+								<div class="testimonial-name">
+									<img src="/site/assets/files/1038/19199_pr42.80x80.jpg" alt="client">
+									<h4 class="white">Tupa P</h4>
+									<p>10/31/2016</p>
+																	</div>
+							</div>
+												
+					</div>
+				</div> 
+				
+			</div>
+		</div>
+	</section>
+	<!-- End Testimonials Section -->
+
+ <!-- Start Footer 1 -->
+			<footer id="footer">				
+				<div class="footer-copyright">
+					<div class="container">
+						<div class="row">
+								
+							<div class="col-md-6 col-sm-12">
+								<p>© 2015 All Rights Reserved. </p>
+							</div>
+							<div class="col-md-6 col-sm-12">
+								<ul id="social-icons">
+									<li><a href="#"><i class="icon ion-social-twitter"></i></a></li> 	
+									<li><a href="#"><i class="icon ion-social-facebook"></i></a></li> 
+									<li><a href="#"><i class="icon ion-social-googleplus"></i></a></li> 
+									<li><a href="#"><i class="icon ion-social-instagram-outline"></i></a></li> 
+									<li><a href="#"><i class="icon ion-social-pinterest"></i></a></li>  
+									<li><a href="#"><i class="icon ion-social-skype"></i></a></li> 
+									<li><a href="#"><i class="icon ion-social-linkedin"></i></a></li> 
+									<li><a href="#"><i class="icon ion-social-dropbox"></i></a></li> 
+									<li><a href="#"><i class="icon ion-social-vimeo"></i></a></li> 
+									<li><a href="#"><i class="icon ion-social-youtube"></i></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div><!-- End Footer Copyright -->
+			</footer>
+			<!-- End Footer 1 -->
+			
+			<!-- Start Back To Top -->
+			<a id="back-to-top"><i class="icon ion-chevron-up"></i></a>
+			<!-- End Back To Top -->
+					  
+		</div> <!-- End Site Wrapper --> 
+		
+		<!-- jQuery -->
+
+		<script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+		<script src="/site/assets/aiom/js_8a0f6e9cb784e06e97b99fd81fc1d080.js"></script>
+		
+	</body>
+</html>
