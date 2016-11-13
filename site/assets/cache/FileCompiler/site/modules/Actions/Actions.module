@@ -67,9 +67,9 @@ class Actions extends \ProcessWire\Process implements \ProcessWire\Module, \Proc
 
 		//Copy nessesary files to /site/templates/
 
-		$createDir = mkdir( '/home/spheraw4/public_html/bsa/site/modules/Actions'."/../../templates/actions", 0755, true);
-		$copyIndexFile = copy ('/home/spheraw4/public_html/bsa/site/modules/Actions'."/index.php" , '/home/spheraw4/public_html/bsa/site/modules/Actions'."/../../templates/actions/index.php" );
-		$copyActionFile = copy ('/home/spheraw4/public_html/bsa/site/modules/Actions'."/action.php" , '/home/spheraw4/public_html/bsa/site/modules/Actions'."/../../templates/action.php" );
+		$createDir = mkdir( '/var/www/viking/site/modules/Actions'."/../../templates/actions", 0755, true);
+		$copyIndexFile = copy ('/var/www/viking/site/modules/Actions'."/index.php" , '/var/www/viking/site/modules/Actions'."/../../templates/actions/index.php" );
+		$copyActionFile = copy ('/var/www/viking/site/modules/Actions'."/action.php" , '/var/www/viking/site/modules/Actions'."/../../templates/action.php" );
 		
 		if($createDir)
 			$this->message("Folder /templates/actions/ created");
@@ -92,17 +92,17 @@ class Actions extends \ProcessWire\Process implements \ProcessWire\Module, \Proc
 
 		//Delete files to /site/templates/
 
-		if(unlink('/home/spheraw4/public_html/bsa/site/modules/Actions'."/../../templates/action.php"))
+		if(unlink('/var/www/viking/site/modules/Actions'."/../../templates/action.php"))
 			$this->message("Remove file {action.php}");
 		else
 			$this->message("Can't remove file {action.php}, delete manual");
 
-		if(unlink('/home/spheraw4/public_html/bsa/site/modules/Actions'."/../../templates/actions/index.php"))
+		if(unlink('/var/www/viking/site/modules/Actions'."/../../templates/actions/index.php"))
 			$this->message("Remove file {index.php}");
 		else
 			$this->message("Can't remove file {index.php}, delete manual");
 
-		if(rmdir('/home/spheraw4/public_html/bsa/site/modules/Actions'."/../../templates/actions"))
+		if(rmdir('/var/www/viking/site/modules/Actions'."/../../templates/actions"))
 			$this->message("Remove folder {/templates/actions/}");
 		else
 			$this->message("Can't remove folder {/templates/actions/}, delete manual");

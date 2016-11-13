@@ -47,9 +47,9 @@ $config->debug = false;
  * 
  */
 $config->dbHost = 'localhost';
-$config->dbName = 'spheraw4_bsa';
-$config->dbUser = 'spheraw4_dv';
-$config->dbPass = '47829300zZ';
+$config->dbName = 'viking';
+$config->dbUser = 'root';
+$config->dbPass = 'Kp6o*0co%F';
 $config->dbPort = '3306';
 
 /**
@@ -87,5 +87,5 @@ $config->installed = 1477530648;
  * Installer: HTTP Hosts Whitelist
  * 
  */
-$config->httpHosts = array('bsa.anwes.ru');
+$config->httpHosts = array('vikingmotorsinc.com', 'www.vikingmotorsinc.com');
 

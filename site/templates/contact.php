@@ -72,7 +72,7 @@
 
 					<div id="message"></div>
 					<!-- Contact Form will be functional only on your server. Upload to your server when testing. -->
-					<form method="post" action="/action/send_contact/" name="contactform" id="contactform">
+					<form method="post" action="sendmail.php" name="contactform" id="contactform">
 						<fieldset>
 								<input name="name" type="text" id="name" placeholder="Name"/> 
 								<input name="email" type="text" id="email" placeholder="Email"/>  

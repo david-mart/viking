@@ -198,10 +198,12 @@ p {
     position: absolute;
     top: 50%;
     left: 50%; 
-    margin-top: -25px;
-    margin-left: -60px;
+    transform: translate(-50%, -50%);
 }
 
+.loader img {
+    max-width: 100%;
+}
 /*----- Typography -----*/
 @media (min-width: 992px) {
     h1 {
@@ -881,10 +883,10 @@ nav {
     transition: all 0.4s ease;
 }
 .navbar-alt .navbar-brand .logo-big {
-    margin-top: 35px;
+    margin-top: 0;
 }
 .navbar-alt .navbar-brand .logo-small {
-    margin-top: 35px;
+    margin-top: 0;
 }
 /* End Logo Big White */
 /* Logo Small Black */
@@ -902,8 +904,8 @@ nav {
 .navbar-small .navbar-brand .logo-small {
     position:absolute;
     opacity: 1;
-    width: 170px;
-    margin-top: 3px; 
+    width: 100px;
+    margin-top: -11px; 
     -webkit-transition: all 0.4s ease;
     -moz-transition: all 0.4s ease;
     -o-transition: all 0.4s ease;
@@ -2811,7 +2813,6 @@ outline-offset: 0;
 
 #page-top img {
     position:fixed;
-    width: 100%;
 }
 .page-top-title {
     top:160px;

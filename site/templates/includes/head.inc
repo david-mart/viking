@@ -21,7 +21,7 @@
 		<!-- Start Preloader -->
 		<div id="preloader">
 			<div class="loader">  
-				<img src="/site/templates/img/assets/preloader-logo.png" alt=""> 
+				<img src="/site/templates/img/assets/Viking-Logo-Big.png" alt=""> 
 			</div>
 		</div>
 		<!-- End Preloader -->
@@ -39,8 +39,8 @@
 						<span class="icon-bar"></span>
 						</button>
 						<a class="navbar-brand" rel="home" href="/">
-							<img src="/site/templates/img/assets/logo-white.png" alt="" class="logo-big">
-							<img src="/site/templates/img/assets/logo-dark.png" alt="" class="logo-small">
+							<img src="/site/templates/img/assets/Viking-Logo-White.png" alt="" class="logo-big">
+							<img src="/site/templates/img/assets/Viking-Logo-Dark.png" alt="" class="logo-small">
 						</a>
 					</div>
 

@@ -14,3 +14,7 @@
 2016-11-07 21:48:24	guest	http://bsa.anwes.ru/a-panel/login/	Error: Failed login for 'su-admin' - Invalid password
 2016-11-07 21:48:36	su-admin	http://bsa.anwes.ru/a-panel/login/	Successful login for 'su-admin'
 2016-11-09 15:15:26	?	?	User 'su-admin' - Session timed out (session older than 86400 seconds) (IP: 77.66.174.168)
+2016-11-13 06:14:28	?	?	User 'su-admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 172.115.28.62)
+2016-11-13 06:15:42	su-admin	http://vikingmotorsinc.com/a-panel/login/	Successful login for 'su-admin'
+2016-11-13 06:16:13	?	?	User 'su-admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 172.115.28.62)
+2016-11-13 06:30:02	su-admin	http://vikingmotorsinc.com/a-panel/login/	Successful login for 'su-admin'
