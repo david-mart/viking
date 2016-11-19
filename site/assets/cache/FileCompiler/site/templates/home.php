@@ -8,7 +8,7 @@
 				<ul>
 					<?php foreach ($page->images as $slide):?>
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="<?php echo $slide->size(180,110)->url;?>" data-delay="10000"  data-saveperformance="on" data-title="">
-							<img src="<?php echo $slide->size(1920,1080)->url;?>" alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+							<img src="<?php echo $slide->size(1920,400)->url;?>" alt="slidebg1" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
 						</li>
 					<?php endforeach;?>
 				</ul>
@@ -27,41 +27,9 @@
 	</div>
 </section>
 <!-- End Home Revolution Slider Parallax Section -->
-
+ 
 <div class="site-wrapper content">
 	
-	<section id="s-paragraphs">
-
-		<div class="call-action">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="action-5-info">
-							<h3 class="uppercase">Find out about the latest new car deals & special offers</h3>
-						</div>
-						<div class="action-5-btn">
-							<a href="<?php echo $pages->get("template=specials")->url;?>" class="btn btn-primary btn-responsive">View Special Offers</a>
-						</div>
-					</div>
-				</div>	
-			</div>
-		</div>
-
-		<div class="container"> 
-			
-			<div class="row shortcode-heading about-page">
-			
-				<div class="col-md-8 wow fadeIn">
-					<?php echo $page->edit('wysiwyg'); ?>
-				</div>	 
-				
-				<div class="col-md-4 wow fadeIn check-list-1">
-					<?php echo $page->edit('sm_wysiwyg'); ?>
-				</div>
-				
-			</div>
-		</div>
-	</section>  
 
 	<!-- Start Team Section -->
 	<section id="team" class="bg-grey">
@@ -103,6 +71,40 @@
 	</section>
 	<!-- End Team Section -->   
 	
+
+	<section id="s-paragraphs">
+
+		<div class="call-action">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="action-5-info">
+							<h3 class="uppercase">Find out about the latest new car deals & special offers</h3>
+						</div>
+						<div class="action-5-btn">
+							<a href="<?php echo $pages->get("template=specials")->url;?>" class="btn btn-primary btn-responsive">View Special Offers</a>
+						</div>
+					</div>
+				</div>	
+			</div>
+		</div>
+
+		<div class="container"> 
+			
+			<div class="row shortcode-heading about-page">
+			
+				<div class="col-md-8 wow fadeIn">
+					<?php echo $page->edit('wysiwyg'); ?>
+				</div>	 
+				
+				<div class="col-md-4 wow fadeIn check-list-1">
+					<?php echo $page->edit('sm_wysiwyg'); ?>
+				</div>
+				
+			</div>
+		</div>
+	</section>  
+
 	<!-- Start Testimonials Section -->   
 	<section id="testimonials" class="parallax-section-7">
 		<div class="container">

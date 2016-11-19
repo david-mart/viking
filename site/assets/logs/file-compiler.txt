@@ -254,3 +254,13 @@
 2016-11-13 05:26:08	su-admin	http://vikingmotorsinc.com/testimonials/	Compiled file: /site/templates/testimonials.php
 2016-11-13 05:41:40	su-admin	http://vikingmotorsinc.com/contact-us/	Compiled file: /site/templates/contact.php
 2016-11-13 06:00:15	su-admin	http://vikingmotorsinc.com/about-us/	Compiled file: /site/templates/about.php
+2016-11-14 01:50:17	su-admin	http://vikingmotorsinc.com/specials/2015-toyota-rav4-xle/	Compiled file: /site/templates/special.php
+2016-11-14 05:16:50	guest	http://vikingmotorsinc.com/	Maintenance/Copy new version of source file to target file: /site/templates/contact.php => /site/assets/cache/FileCompiler/site/templates/contact.php
+2016-11-14 05:16:50	guest	http://vikingmotorsinc.com/	Maintenance/Remove directory: /site/assets/cache/FileCompiler/site/modules/Actions
+2016-11-14 20:47:38	guest	http://vikingmotorsinc.com/contact-us/	Compiled file: /site/templates/contact.php
+2016-11-16 09:32:15	guest	http://vikingmotorsinc.com/	Compiled file: /site/templates/home.php
+2016-11-16 09:33:16	guest	http://vikingmotorsinc.com/	Compiled file: /site/templates/home.php
+2016-11-16 09:33:41	guest	http://vikingmotorsinc.com/	Compiled file: /site/templates/home.php
+2016-11-16 09:35:09	guest	http://vikingmotorsinc.com/	Compiled file: /site/templates/home.php
+2016-11-16 09:40:26	su-admin	http://vikingmotorsinc.com/specials/	Compiled file: /site/templates/specials.php
+2016-11-16 09:48:05	su-admin	http://vikingmotorsinc.com/specials/2015-audi-a4/	Compiled file: /site/templates/special.php

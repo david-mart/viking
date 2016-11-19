@@ -1,0 +1,25 @@
+2016-10-27 04:11:47	su-admin	http://bsa.anwes.ru/a-panel/login/	Successful login for 'su-admin'
+2016-10-31 22:57:41	guest	http://bsa.anwes.ru/a-panel/login/	Error: Failed login for 'su-admin' - Invalid password
+2016-10-31 22:57:57	su-admin	http://bsa.anwes.ru/a-panel/login/	Successful login for 'su-admin'
+2016-11-03 00:16:41	?	?	User 'su-admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 95.153.128.24)
+2016-11-03 00:21:34	su-admin	http://bsa.anwes.ru/a-panel/login/	Successful login for 'su-admin'
+2016-11-03 00:47:34	?	?	User 'su-admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 77.66.174.168)
+2016-11-04 04:10:53	su-admin	http://bsa.anwes.ru/a-panel/login/	Successful login for 'su-admin'
+2016-11-04 19:48:42	?	?	User 'su-admin' - Session timed out (session older than 86400 seconds) (IP: 172.115.28.62)
+2016-11-04 19:51:32	?	?	User 'su-admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 216.14.15.130)
+2016-11-06 15:37:21	su-admin	http://bsa.anwes.ru/a-panel/login/	Successful login for 'su-admin'
+2016-11-06 15:39:51	su-admin	http://bsa.anwes.ru/a-panel/login/	Successful login for 'su-admin'
+2016-11-06 23:17:49	su-admin	http://bsa.anwes.ru/a-panel/login/	Successful login for 'su-admin'
+2016-11-07 21:48:21	?	?	User 'su-admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 77.66.174.168)
+2016-11-07 21:48:24	guest	http://bsa.anwes.ru/a-panel/login/	Error: Failed login for 'su-admin' - Invalid password
+2016-11-07 21:48:36	su-admin	http://bsa.anwes.ru/a-panel/login/	Successful login for 'su-admin'
+2016-11-09 15:15:26	?	?	User 'su-admin' - Session timed out (session older than 86400 seconds) (IP: 77.66.174.168)
+2016-11-13 06:14:28	?	?	User 'su-admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 172.115.28.62)
+2016-11-13 06:15:42	su-admin	http://vikingmotorsinc.com/a-panel/login/	Successful login for 'su-admin'
+2016-11-13 06:16:13	?	?	User 'su-admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 172.115.28.62)
+2016-11-13 06:30:02	su-admin	http://vikingmotorsinc.com/a-panel/login/	Successful login for 'su-admin'
+2016-11-14 05:18:25	rafolionn	http://vikingmotorsinc.com/a-panel/login/	Successful login for 'rafolionn'
+2016-11-14 22:17:53	?	?	User 'rafolionn' - Error: Session fingerprint changed (IP address or useragent) (IP: 107.214.28.190)
+2016-11-14 22:18:38	rafolionn	http://vikingmotorsinc.com/a-panel/login/	Successful login for 'rafolionn'
+2016-11-14 22:29:56	?	?	User 'su-admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 216.14.15.130)
+2016-11-15 09:19:08	?	?	User 'rafolionn' - Error: Session fingerprint changed (IP address or useragent) (IP: 99.44.222.187)

@@ -31,6 +31,7 @@
 										<li><strong>Year:</strong> <span><?php echo $car->year;?></span></li>
 										<li><strong>Make:</strong> <span><?php echo $car->make;?></span></li>
 										<li><strong>Model:</strong> <span><?php echo $car->model;?></span></li>
+										<li><strong>Mileage:</strong> <span><?php echo $car->mileage;?></span></li>
 									</ul>
 								</div>
 								<div class="col-md-4 text-right">

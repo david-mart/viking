@@ -18,3 +18,11 @@
 2016-11-13 06:15:42	su-admin	http://vikingmotorsinc.com/a-panel/login/	Successful login for 'su-admin'
 2016-11-13 06:16:13	?	?	User 'su-admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 172.115.28.62)
 2016-11-13 06:30:02	su-admin	http://vikingmotorsinc.com/a-panel/login/	Successful login for 'su-admin'
+2016-11-14 05:18:25	rafolionn	http://vikingmotorsinc.com/a-panel/login/	Successful login for 'rafolionn'
+2016-11-14 22:17:53	?	?	User 'rafolionn' - Error: Session fingerprint changed (IP address or useragent) (IP: 107.214.28.190)
+2016-11-14 22:18:38	rafolionn	http://vikingmotorsinc.com/a-panel/login/	Successful login for 'rafolionn'
+2016-11-14 22:29:56	?	?	User 'su-admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 216.14.15.130)
+2016-11-15 09:19:08	?	?	User 'rafolionn' - Error: Session fingerprint changed (IP address or useragent) (IP: 99.44.222.187)
+2016-11-16 09:36:44	su-admin	http://vikingmotorsinc.com/a-panel/login/	Successful login for 'su-admin'
+2016-11-16 21:21:42	?	?	User 'su-admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 216.14.15.130)
+2016-11-19 06:57:55	rafolionn	http://vikingmotorsinc.com/a-panel/login/	Successful login for 'rafolionn'

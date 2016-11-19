@@ -76,6 +76,7 @@
 									<li><strong>Transmission:</strong> <span><?php echo $page->transmission;?></span></li>
 									<?php $mpg = explode('/', $page->mpg);?>
 									<li><strong>MPG:</strong> <span><?=$mpg[0];?> City / <?=$mpg[1];?> Highway</span></li>
+									<li><strong>Mileage:</strong> <span><?php echo $page->mileage?></span></li>
 								</ul>
 							</div>
 						</div>
